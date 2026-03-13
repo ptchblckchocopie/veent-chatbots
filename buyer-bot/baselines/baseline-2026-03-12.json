@@ -1,0 +1,462 @@
+{
+  "capturedAt": "2026-03-12T08:36:49.331Z",
+  "apiUrl": "https://api.dify.ai/v1",
+  "queryCount": 10,
+  "passCount": 7,
+  "avgLatencyMs": 4986,
+  "results": [
+    {
+      "id": 1,
+      "query": "What events are happening in March?",
+      "expectedSource": "events-march-2026-v2",
+      "expectedKeywords": [
+        "SUB1-SAHARUN",
+        "Miles For Smiles",
+        "Run4UrHeart",
+        "RUN FOR ILOILO RIVER"
+      ],
+      "answer": "You can find out what events are happening in March on Veent Tix by following these steps:\n\n1. Click 'Explore Events' in the top navigation bar.\n2. Scroll down to the 'Discover' page, you will see a calendar view of upcoming events.\n3. Use the calendar to navigate to March 2026.\n4. Click on the specific date in March to see a list of events happening on that day.\n\nAlternatively, you can also use the 'Search' bar to type \"March events\" and click 'Search' to find a list of events happening in March.\n\nAs per our knowledge base, we have 12 events happening in March 2026, but I'm not sure what those events are. I'd love to help you find out more, though! If you need to know specific details about the events in March, feel free to ask and I'll do my best to help.\n\nIf you're having trouble finding the information, you can also contact our support team at support@veent.io or visit our website https://veent.io for more information.",
+      "conversationId": "c501b300-c410-4c0c-b5f7-37bcb89e50f7",
+      "messageId": "7fadd489-3d7a-4889-acdb-74b50e9b272e",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 760,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.000038",
+          "completion_tokens": 221,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000221",
+          "total_tokens": 981,
+          "total_price": "0.0000601",
+          "currency": "USD",
+          "latency": 0.623,
+          "time_to_first_token": 1.048,
+          "time_to_generate": 0.292
+        }
+      },
+      "latencyMs": 25852,
+      "keywordCheck": {
+        "found": [],
+        "missing": [
+          "SUB1-SAHARUN",
+          "Miles For Smiles",
+          "Run4UrHeart",
+          "RUN FOR ILOILO RIVER"
+        ],
+        "score": 0
+      },
+      "status": "WARN"
+    },
+    {
+      "id": 2,
+      "query": "How much are tickets for Lani Misalucha?",
+      "expectedSource": "events-april-2026-v2",
+      "expectedKeywords": [
+        "5,500",
+        "4,400",
+        "3,300",
+        "2,200",
+        "800",
+        "600"
+      ],
+      "answer": "To check the ticket prices for Lani Misalucha's concert, follow these steps:\n\n1. Go to the Veent Tix website at https://www.veent.io.\n2. Click the 'Explore Events' link in the top navigation bar.\n3. Use the search bar to type 'Lani Misalucha Cagayan De Oro' (or simply 'Lani Misalucha' if you're looking for other events).\n4. Click on the event card for 'Lani Misalucha Live In Cagayan De Oro City' (https://lanimisaluchacdo.veent.net/).\n5. Scroll down to the 'Ticket Prices' section. \n\nYou'll see the ticket prices listed for each tier:\n\n- VVIP: P5,500\n- VIP: P4,400\n- Platinum: P3,300\n- Premium: P2,200\n- Lower Balcony: P800\n- Upper Balcony: P600\n\nFeel free to browse the event page for more information, and when you're ready to buy, click the 'Get Tickets' button.",
+      "conversationId": "bfa3f2b5-aa51-419f-b732-1eecef18a0a3",
+      "messageId": "418ef9ee-44da-4d3b-8868-16489b56a60d",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 807,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000404",
+          "completion_tokens": 232,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000232",
+          "total_tokens": 1039,
+          "total_price": "0.0000636",
+          "currency": "USD",
+          "latency": 0.583,
+          "time_to_first_token": 1.059,
+          "time_to_generate": 0.07
+        }
+      },
+      "latencyMs": 1925,
+      "keywordCheck": {
+        "found": [
+          "5,500",
+          "4,400",
+          "3,300",
+          "2,200",
+          "800",
+          "600"
+        ],
+        "missing": [],
+        "score": 1
+      },
+      "status": "PASS"
+    },
+    {
+      "id": 3,
+      "query": "Can I get a refund?",
+      "expectedSource": "faq-and-policies",
+      "expectedKeywords": [
+        "no refund",
+        "final",
+        "cancelled"
+      ],
+      "answer": "I'd be happy to help you with that. However, according to Veent Tix's policies, all sales are final and non-refundable. This means that once you purchase a ticket, we cannot offer refunds, cancellations, or exchanges for any reason.\n\nBut don't worry, here's what you should know:\n\n1. If an event is canceled by the organizer, the event organizer will handle any refund requests directly. Veent Tix will facilitate communication with the organizer, but we don't control the refund process.\n2. Unfortunately, Veent Tix cannot offer refunds or exchanges due to changes in your schedule, transportation issues, illness, or dissatisfaction with the event.\n\nIf you have any specific questions or concerns about a particular event, I'd be happy to help you find more information on the event page. Alternatively, you can contact Veent support directly at support@veent.io or visit https://veent.io for more assistance.",
+      "conversationId": "b48fadad-609a-4df9-a7cc-dd9e77fb7526",
+      "messageId": "44b3fc11-c8bd-4194-8a5c-83edd4374c1c",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 658,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000329",
+          "completion_tokens": 193,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000193",
+          "total_tokens": 851,
+          "total_price": "0.0000522",
+          "currency": "USD",
+          "latency": 0.5,
+          "time_to_first_token": 1.398,
+          "time_to_generate": 0.007
+        }
+      },
+      "latencyMs": 2852,
+      "keywordCheck": {
+        "found": [
+          "final"
+        ],
+        "missing": [
+          "no refund",
+          "cancelled"
+        ],
+        "score": 0.3333333333333333
+      },
+      "status": "WARN"
+    },
+    {
+      "id": 4,
+      "query": "How do I buy tickets?",
+      "expectedSource": "website-navigation-guide-v2",
+      "expectedKeywords": [
+        "select",
+        "seat",
+        "payment",
+        "QR"
+      ],
+      "answer": "Buying tickets on Veent Tix is a breeze. Here's a step-by-step guide to help you:\n\n1. **Head to our website**: Go to [www.veent.io](http://www.veent.io) and click on the \"Explore Events\" link in the top navigation bar.\n2. **Discover Events**: On the Discover page, use the search bar to type the name of the event you're interested in. You can also filter by category (e.g., concerts, festivals, workshops) or location.\n3. **Find the Event**: Click on the event card that matches the event you're looking for. This will take you to the event details page.\n4. **Get Tickets**: Click the \"Get Tickets\" button on the event details page.\n5. **Select Your Tickets**: Choose the type of ticket you want to purchase (e.g., standard, VIP, etc.). If available, select your seats from the seat map. Make sure to review the ticket details and prices.\n6. **Proceed to Checkout**: Click \"Next\" to proceed to the checkout page.\n7. **Fill Out the Form**: Enter your attendee details, such as name, email, and phone number.\n8. **Choose Your Payment Method**: Select your preferred payment method from the available options: Visa, Mastercard, GCash, Maya, GrabPay, BillEase installments, or bank transfer.\n9. **Complete Payment**: Enter your payment details and complete the transaction.\n10. **Receive Your Tickets**: Your digital tickets will be sent to your email and accessible in your Veent Tix account dashboard. Save the QR code (digital or printed) and present it at the event entrance along with a government-issued ID.\n\nThat's it! If you have any issues or questions during the process, feel free to reach out to our support team at support@veent.io or visit our website for more information.",
+      "conversationId": "e4d05dea-c6c4-48e7-b979-9918898285ba",
+      "messageId": "4c257634-d67e-42ce-9963-0430384d9850",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 700,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.000035",
+          "completion_tokens": 391,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000391",
+          "total_tokens": 1091,
+          "total_price": "0.0000741",
+          "currency": "USD",
+          "latency": 0.825,
+          "time_to_first_token": 1.051,
+          "time_to_generate": 0.449
+        }
+      },
+      "latencyMs": 2423,
+      "keywordCheck": {
+        "found": [
+          "select",
+          "seat",
+          "payment",
+          "QR"
+        ],
+        "missing": [],
+        "score": 1
+      },
+      "status": "PASS"
+    },
+    {
+      "id": 5,
+      "query": "What payment methods are accepted?",
+      "expectedSource": "website-navigation-guide-v2 or about-veent-tix",
+      "expectedKeywords": [
+        "GCash",
+        "Maya",
+        "Visa",
+        "Mastercard"
+      ],
+      "answer": "You can find the accepted payment methods on Veent Tix by following these steps:\n\n1. Click on the \"Get Tickets\" button in the top navigation bar.\n2. Click on the \"Payment Methods\" link in the footer section of the page.\n3. In the payment methods page, you will see a list of the accepted payment methods, which include:\n   - Visa\n   - Mastercard\n   - GCash\n   - Maya\n   - GrabPay\n   - BillEase (buy now pay later)\n   - Bank Transfer\n\nAlternatively, you can also check the payment methods accepted by Veent Tix on our website by clicking on the \"Help\" link in the top navigation bar and then selecting \"Payment Methods\" from the dropdown menu.\n\nWe accept multiple payment methods to ensure a smooth and convenient ticket-buying experience for our users.",
+      "conversationId": "7dcd0a1b-832a-4eb7-bd60-39d6717eb8a5",
+      "messageId": "a6300f8b-cdef-49cc-82b6-76da25b0c1a5",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 677,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000339",
+          "completion_tokens": 174,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000174",
+          "total_tokens": 851,
+          "total_price": "0.0000513",
+          "currency": "USD",
+          "latency": 0.572,
+          "time_to_first_token": 1.416,
+          "time_to_generate": 0.036
+        }
+      },
+      "latencyMs": 2253,
+      "keywordCheck": {
+        "found": [
+          "GCash",
+          "Maya",
+          "Visa",
+          "Mastercard"
+        ],
+        "missing": [],
+        "score": 1
+      },
+      "status": "PASS"
+    },
+    {
+      "id": 6,
+      "query": "How do I contact Veent?",
+      "expectedSource": "about-veent-tix",
+      "expectedKeywords": [
+        "support@veenttix.com",
+        "hello@veent.io"
+      ],
+      "answer": "You can contact Veent Tix for support through various methods.\n\n1. **For general support**: If you experience any issues with your account, ticket purchase, or event information, you can send an email to **support@veenttix.com**. Please include your full name, registered email address, and ticket order ID (if applicable) for faster assistance.\n\n   - Go to your email client → Compose a new email → Enter the recipient email: support@veenttix.com → Include your full name, registered email, and ticket order ID (if applicable) → Write your message → Send the email.\n\n2. **For listing-specific questions**: If you have questions about a specific event or listing, you can find the organizer's contact information on the event page. \n\n   - Go to the website → Click 'Explore Events' in the top navigation bar → Use the search bar to type the event name → Click on the event card → Click 'Event Details' or 'More Info' → Scroll down to the 'Need Help? Contact Us' section → Find the organizer's name and phone number → Reach out to them directly for assistance.\n\n3. **For organizers wanting to use Veent Tix**: If you're an event organizer interested in using Veent Tix for your events, you can fill out the contact form on our website.\n\n   - Go to the website → Visit the 'Contact Us' page → Click 'Get in Touch' → Fill out the contact form → Send the form.\n\n4. **General email**: You can also reach us through our general email address **hello@veent.io**.\n\n5. **Social media**: Follow us on our social media platforms to get in touch with us.\n\n   - Facebook: [facebook.com/veent.io](http://facebook.com/veent.io)\n   - Instagram: [instagram.com/veent.tix](http://instagram.com/veent.tix)\n   - LinkedIn: [linkedin.com/company/veent](http://linkedin.com/company/veent)\n   - TikTok: [tiktok.com/@veent_tix](http://tiktok.com/@veent_tix)\n\nOur customer support team is available Monday to Saturday, 9:00 AM to 6:00 PM (PHT), and we aim to respond to all inquiries within 24 to 48 hours.\n\nIf you have any questions or need help, feel free to reach out to us!",
+      "conversationId": "ded0fd50-80d6-4460-b939-31d93e149950",
+      "messageId": "29c3bfd7-ea5c-48b9-98d8-3d007d200fdf",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 823,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000412",
+          "completion_tokens": 501,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000501",
+          "total_tokens": 1324,
+          "total_price": "0.0000913",
+          "currency": "USD",
+          "latency": 0.95,
+          "time_to_first_token": 1.208,
+          "time_to_generate": 0.665
+        }
+      },
+      "latencyMs": 2645,
+      "keywordCheck": {
+        "found": [
+          "support@veenttix.com",
+          "hello@veent.io"
+        ],
+        "missing": [],
+        "score": 1
+      },
+      "status": "PASS"
+    },
+    {
+      "id": 7,
+      "query": "What is Veent Tix?",
+      "expectedSource": "about-veent-tix",
+      "expectedKeywords": [
+        "ticketing",
+        "platform",
+        "concerts"
+      ],
+      "answer": "Welcome to Veent Tix! I'm happy to introduce you to our platform. Veent Tix is an online ticketing platform that allows event organizers to create, promote, and sell tickets for various live events such as concerts, festivals, workshops, and more. Our platform provides a convenient and secure way for customers like you to browse upcoming events, purchase tickets, and receive digital tickets via email or your Veent Tix account.\n\nTo learn more about our platform and how it works, I can guide you through our website. To begin, you can visit our website at [www.veent.io](http://www.veent.io). Click on the \"About\" link at the bottom of the page → Scroll down to the \"About Veent Tix\" section → You can read more about our mission, services, and how we help event organizers and customers like you.\n\nWould you like to know more about how to use our platform or explore upcoming events?",
+      "conversationId": "058dd4bf-9f0d-48de-b887-4ee4ea6adc15",
+      "messageId": "486eb199-d0e8-4bbe-8ba2-b95ebc412ac2",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 772,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000386",
+          "completion_tokens": 197,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000197",
+          "total_tokens": 969,
+          "total_price": "0.0000583",
+          "currency": "USD",
+          "latency": 0.535,
+          "time_to_first_token": 1.472,
+          "time_to_generate": 0.265
+        }
+      },
+      "latencyMs": 2850,
+      "keywordCheck": {
+        "found": [
+          "ticketing",
+          "platform",
+          "concerts"
+        ],
+        "missing": [],
+        "score": 1
+      },
+      "status": "PASS"
+    },
+    {
+      "id": 8,
+      "query": "Are there fun runs in April?",
+      "expectedSource": "events-april-2026-v2",
+      "expectedKeywords": [
+        "Dash And Splash",
+        "Alfonso Ridge",
+        "Kaldereta Trail Run"
+      ],
+      "answer": "We've got a few fun runs lined up for you in April 2026 on Veent Tix. \n\nOne of the fun runs is the \"Dash And Splash\" happening on **Saturday, April 11, 2026** from 4:00 AM to 9:00 AM at SM City Iloilo.\n\nTo check more fun runs or get tickets for Dash And Splash, follow these steps:\n\n1. Click the \"Explore Events\" link at the top navigation bar.\n2. Use the search bar to type \"Dash And Splash\" or \"fun run\".\n3. Click on the event card to view more details.\n4. If you'd like to proceed with buying tickets, click the \"Get Tickets\" button.\n\nYou can also explore other fun runs by browsing the \"Discover\" page on Veent Tix.",
+      "conversationId": "c0eb7fc2-636e-4d22-b815-07c9b4b6a67b",
+      "messageId": "923e07f9-54ac-41c4-a389-b3035275c240",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 1087,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000544",
+          "completion_tokens": 170,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.000017",
+          "total_tokens": 1257,
+          "total_price": "0.0000714",
+          "currency": "USD",
+          "latency": 0.619,
+          "time_to_first_token": 1.02,
+          "time_to_generate": 0.173
+        }
+      },
+      "latencyMs": 3564,
+      "keywordCheck": {
+        "found": [
+          "Dash And Splash"
+        ],
+        "missing": [
+          "Alfonso Ridge",
+          "Kaldereta Trail Run"
+        ],
+        "score": 0.3333333333333333
+      },
+      "status": "WARN"
+    },
+    {
+      "id": 9,
+      "query": "How do I create an account?",
+      "expectedSource": "website-navigation-guide-v2",
+      "expectedKeywords": [
+        "LOGIN",
+        "sign-in",
+        "Google"
+      ],
+      "answer": "Creating an account on Veent Tix is a straightforward process. Here's how you can do it:\n\n1. Click the \"LOGIN\" button in the top-right corner of the navigation bar on our website.\n2. This will take you to the sign-in page at v2.veent.io/sign-in.\n3. On the sign-in page, you can either sign in with your existing Google account or click on \"Sign up\" to create a new Veent Tix account.\n4. To create a new account, fill out the registration form with your email address, password, and other required details.\n5. Click on the \"Sign up\" button to complete the registration process.\n6. You will receive a verification email to confirm your email address. Click on the verification link in the email to activate your account.\n7. Once your account is activated, you can log in to your Veent Tix account by clicking the \"LOGIN\" button in the top-right corner of the navigation bar.\n\nThat's it! You now have a Veent Tix account. If you have any issues or need help during the registration process, feel free to contact our support team at support@veent.io.",
+      "conversationId": "c30ad3fe-6355-4c79-b357-a67735e00f53",
+      "messageId": "6104b895-25dd-4004-851e-4e1c301ae2d2",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 641,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000321",
+          "completion_tokens": 244,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000244",
+          "total_tokens": 885,
+          "total_price": "0.0000565",
+          "currency": "USD",
+          "latency": 0.533,
+          "time_to_first_token": 1.074,
+          "time_to_generate": 0.223
+        }
+      },
+      "latencyMs": 2725,
+      "keywordCheck": {
+        "found": [
+          "LOGIN",
+          "sign-in",
+          "Google"
+        ],
+        "missing": [],
+        "score": 1
+      },
+      "status": "PASS"
+    },
+    {
+      "id": 10,
+      "query": "What events are in CDO?",
+      "expectedSource": "events (multiple months)",
+      "expectedKeywords": [
+        "Lani Misalucha",
+        "CDO",
+        "Cagayan de Oro"
+      ],
+      "answer": "To find events in Cagayan de Oro (CDO), follow these steps:\n\n1. Go to the Veent Tix website at https://www.veent.io/\n2. Click 'Discover' in the top navigation bar → This will take you to the Discover page where you can explore upcoming events.\n3. On the Discover page, click on the 'Location' filter in the top right corner of the page.\n4. Select 'Cagayan de Oro' from the dropdown list of locations.\n5. You will see a list of upcoming events in CDO. Click on an event card to view more details about the event.\n\nFrom my knowledge base, I found a few events in CDO scheduled for April 2026:\n\n- CDO Trail Run 2026 (April 10, 2026)\n- Musikahan sa CDO: A Night of Local Artists (April 15, 2026)\n\nPlease note that event listings may change or be updated regularly, so you can visit the Discover page on the Veent Tix website for the latest and most accurate event information.\n\nIf you have any specific date or type of event in mind (e.g., concerts, workshops, etc.), feel free to let me know and I can try to help you find it.",
+      "conversationId": "21f322d4-1364-4361-8eab-99003eb50171",
+      "messageId": "90b32f37-7d80-4d5d-8e29-74d99aa605e6",
+      "metadata": {
+        "annotation_reply": null,
+        "retriever_resources": [],
+        "usage": {
+          "prompt_tokens": 749,
+          "prompt_unit_price": "0.05",
+          "prompt_price_unit": "0.000001",
+          "prompt_price": "0.0000375",
+          "completion_tokens": 262,
+          "completion_unit_price": "0.1",
+          "completion_price_unit": "0.000001",
+          "completion_price": "0.0000262",
+          "total_tokens": 1011,
+          "total_price": "0.0000637",
+          "currency": "USD",
+          "latency": 0.672,
+          "time_to_first_token": 1.045,
+          "time_to_generate": 0.272
+        }
+      },
+      "latencyMs": 2773,
+      "keywordCheck": {
+        "found": [
+          "CDO",
+          "Cagayan de Oro"
+        ],
+        "missing": [
+          "Lani Misalucha"
+        ],
+        "score": 0.6666666666666666
+      },
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,2775 @@
+{
+  "analyzedAt": "2026-03-12T08:50:49.153Z",
+  "file": "AI_CHATBOT_KNOWLEDGE_BASE.md",
+  "fileChars": 30617,
+  "fileWords": 5083,
+  "globalKeywords": {
+    "event": 91,
+    "events": 13,
+    "ticket": 54,
+    "tickets": 57,
+    "payment": 16,
+    "pay": 2,
+    "account": 4,
+    "organizer": 2,
+    "refund": 0,
+    "create": 31,
+    "buy": 0
+  },
+  "sectionCount": 79,
+  "classifications": {
+    "NEW": 63,
+    "OVERLAP-BETTER": 16,
+    "OVERLAP-DUPLICATE": 0,
+    "IRRELEVANT": 0
+  },
+  "sections": [
+    {
+      "title": "Veent Dashboard AI Chatbot Knowledge Base",
+      "level": 1,
+      "charCount": 230,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 2
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 1,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Table of Contents",
+      "level": 2,
+      "charCount": 696,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 2
+        },
+        {
+          "topic": "event-management",
+          "score": 2
+        },
+        {
+          "topic": "reporting",
+          "score": 2
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 2,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 2,
+        "payment": 2,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "1. Event Creation & Basic Settings",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "event-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Creating a New Event",
+      "level": 3,
+      "charCount": 1119,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 4
+        },
+        {
+          "topic": "event-management",
+          "score": 2
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 14,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 1,
+        "refund": 0,
+        "create": 2,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Event Status Options",
+      "level": 3,
+      "charCount": 207,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 3,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Event Settings (Advanced)",
+      "level": 3,
+      "charCount": 813,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 57,
+          "matchedKeywords": 4,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 57,
+          "matchedKeywords": 4,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 5,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 4,
+        "payment": 2,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Customization Labels",
+      "level": 3,
+      "charCount": 496,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 5,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Visibility Settings",
+      "level": 3,
+      "charCount": 379,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 2,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "2. Ticket Types & Pricing",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Creating Ticket Types",
+      "level": 3,
+      "charCount": 1395,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 6,
+        "tickets": 6,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Package Tickets",
+      "level": 3,
+      "charCount": 457,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 3,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Ticket Properties (Custom Fields)",
+      "level": 3,
+      "charCount": 200,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "event-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-may-aug-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "may-august events"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "3. Registration Forms",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Form Builder",
+      "level": 3,
+      "charCount": 1125,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 44,
+          "matchedKeywords": 4,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        },
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-may-aug-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "may-august events"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Form-Ticket Association",
+      "level": 3,
+      "charCount": 167,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "4. Payment Configuration",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Payment Gateways",
+      "level": 3,
+      "charCount": 176,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Fee Settings",
+      "level": 3,
+      "charCount": 496,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 2
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 0,
+        "payment": 1,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Fee Calculation Examples",
+      "level": 3,
+      "charCount": 366,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Order Timeout",
+      "level": 3,
+      "charCount": 151,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Free Orders",
+      "level": 3,
+      "charCount": 116,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 1
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 1,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "5. Seat Maps & Venue Setup",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "event-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Seat Map Editor",
+      "level": 3,
+      "charCount": 1159,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "event-management",
+          "score": 2
+        },
+        {
+          "topic": "ticket-management",
+          "score": 2
+        },
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Transform Tools",
+      "level": 3,
+      "charCount": 196,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "3D Preview",
+      "level": 3,
+      "charCount": 113,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "event-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Sharing Seat Maps",
+      "level": 3,
+      "charCount": 143,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 2,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "6. Vouchers & Promotions",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Creating Vouchers",
+      "level": 3,
+      "charCount": 1208,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 2,
+        "events": 1,
+        "ticket": 2,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Voucher Examples",
+      "level": 3,
+      "charCount": 339,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "7. Staff & Permissions",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "account-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Team Roles",
+      "level": 3,
+      "charCount": 279,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 2
+        },
+        {
+          "topic": "account-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 2,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Permission Matrix",
+      "level": 3,
+      "charCount": 405,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 2
+        },
+        {
+          "topic": "account-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Inviting Staff",
+      "level": 3,
+      "charCount": 157,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "account-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 44,
+          "matchedKeywords": 4,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 1,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Scanning Areas",
+      "level": 3,
+      "charCount": 286,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "8. Email & Communications",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Email Templates",
+      "level": 3,
+      "charCount": 629,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Event Announcements",
+      "level": 3,
+      "charCount": 423,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Subscription Management",
+      "level": 3,
+      "charCount": 131,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "9. Analytics & Reporting",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "reporting",
+          "score": 2
+        },
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Dashboard Analytics",
+      "level": 3,
+      "charCount": 475,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 2
+        },
+        {
+          "topic": "reporting",
+          "score": 2
+        },
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 57,
+          "matchedKeywords": 4,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 57,
+          "matchedKeywords": 4,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-may-aug-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "may-august events"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 2,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Financial Summary",
+      "level": 3,
+      "charCount": 436,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        },
+        {
+          "topic": "event-management",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 4,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Data Export",
+      "level": 3,
+      "charCount": 292,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "10. Scanner & Check-in",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 2
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Scanner PWA",
+      "level": 3,
+      "charCount": 456,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 3
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Offline Support",
+      "level": 3,
+      "charCount": 91,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Batch Check-in",
+      "level": 3,
+      "charCount": 88,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Scanner Features",
+      "level": 3,
+      "charCount": 229,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "11. Printed Tickets",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Printed Ticket Management",
+      "level": 3,
+      "charCount": 158,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 2,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Allocation",
+      "level": 3,
+      "charCount": 235,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 4,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Ticket Statuses",
+      "level": 3,
+      "charCount": 210,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Fee Settings",
+      "level": 3,
+      "charCount": 255,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Seat Selection for Printed Tickets",
+      "level": 3,
+      "charCount": 104,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "12. Navigation Guide",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Dashboard Layout",
+      "level": 3,
+      "charCount": 258,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 2,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Step-by-Step: Getting Started",
+      "level": 3,
+      "charCount": 527,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 2
+        },
+        {
+          "topic": "account-management",
+          "score": 1
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 56,
+          "matchedKeywords": 5,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 5,
+        "events": 1,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 1,
+        "organizer": 0,
+        "refund": 0,
+        "create": 2,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Main Navigation Tabs",
+      "level": 3,
+      "charCount": 1098,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "reporting",
+          "score": 3
+        },
+        {
+          "topic": "organizer-tools",
+          "score": 2
+        },
+        {
+          "topic": "check-in-system",
+          "score": 2
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 4,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 2,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 4,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Edit Event Submenu",
+      "level": 3,
+      "charCount": 540,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "about-veent-tix.md",
+          "overlapRatio": 57,
+          "matchedKeywords": 4,
+          "totalKeywords": 7,
+          "topics": [
+            "company info",
+            "contact",
+            "what is veent",
+            "support"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 1,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "How to Access Common Tasks",
+      "level": 3,
+      "charCount": 1970,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 3
+        },
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        },
+        {
+          "topic": "account-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 44,
+          "matchedKeywords": 4,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 5,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 4,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Global Navigation (Top Header)",
+      "level": 3,
+      "charCount": 347,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 1,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 1,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Quick Access Buttons",
+      "level": 3,
+      "charCount": 553,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 2
+        },
+        {
+          "topic": "check-in-system",
+          "score": 2
+        },
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 2,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 2,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 3,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Keyboard Shortcuts",
+      "level": 3,
+      "charCount": 172,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Mobile Navigation",
+      "level": 3,
+      "charCount": 207,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "13. Frequently Asked Questions",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Event Setup",
+      "level": 3,
+      "charCount": 854,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 2
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-may-aug-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "may-august events"
+          ]
+        },
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 9,
+        "events": 3,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 2,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Tickets & Pricing",
+      "level": 3,
+      "charCount": 656,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 4,
+        "tickets": 5,
+        "payment": 1,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 2,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Payment & Fees",
+      "level": 3,
+      "charCount": 498,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "payment-processing",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-may-aug-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "may-august events"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 2,
+        "pay": 2,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Seat Maps",
+      "level": 3,
+      "charCount": 374,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 3,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Vouchers",
+      "level": 3,
+      "charCount": 477,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        },
+        {
+          "topic": "ticket-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 2,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 2,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Staff & Access",
+      "level": 3,
+      "charCount": 370,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "account-management",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 2,
+        "events": 1,
+        "ticket": 0,
+        "tickets": 1,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Check-in",
+      "level": 3,
+      "charCount": 366,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 2
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Emails",
+      "level": 3,
+      "charCount": 352,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 1,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Analytics & Export",
+      "level": 3,
+      "charCount": 342,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        },
+        {
+          "topic": "check-in-system",
+          "score": 1
+        },
+        {
+          "topic": "reporting",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "website-navigation-guide-v2.md",
+          "overlapRatio": 33,
+          "matchedKeywords": 3,
+          "totalKeywords": 9,
+          "topics": [
+            "navigation",
+            "how to buy",
+            "account creation",
+            "website usage"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Printed Tickets",
+      "level": 3,
+      "charCount": 291,
+      "classification": "NEW",
+      "topics": [],
+      "overlaps": [],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 2,
+        "tickets": 2,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Troubleshooting",
+      "level": 3,
+      "charCount": 671,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "account-management",
+          "score": 2
+        },
+        {
+          "topic": "payment-processing",
+          "score": 1
+        },
+        {
+          "topic": "check-in-system",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-may-aug-2026-v2.md",
+          "overlapRatio": 57,
+          "matchedKeywords": 4,
+          "totalKeywords": 7,
+          "topics": [
+            "may-august events"
+          ]
+        },
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        },
+        {
+          "document": "events-april-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "april events",
+            "fun runs",
+            "concerts"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 1,
+        "payment": 2,
+        "pay": 0,
+        "account": 1,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Quick Reference Cards",
+      "level": 2,
+      "charCount": 1,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "frontend-flow",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Creating an Event Checklist",
+      "level": 3,
+      "charCount": 355,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "ticket-management",
+          "score": 2
+        },
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 3,
+        "events": 0,
+        "ticket": 1,
+        "tickets": 0,
+        "payment": 1,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 3,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Day-of-Event Checklist",
+      "level": 3,
+      "charCount": 194,
+      "classification": "NEW",
+      "topics": [
+        {
+          "topic": "check-in-system",
+          "score": 2
+        },
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        }
+      ],
+      "overlaps": [],
+      "keywords": {
+        "event": 0,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 1,
+        "buy": 0
+      }
+    },
+    {
+      "title": "Post-Event Checklist",
+      "level": 3,
+      "charCount": 190,
+      "classification": "OVERLAP-BETTER",
+      "topics": [
+        {
+          "topic": "organizer-tools",
+          "score": 1
+        },
+        {
+          "topic": "reporting",
+          "score": 1
+        }
+      ],
+      "overlaps": [
+        {
+          "document": "events-march-2026-v2.md",
+          "overlapRatio": 43,
+          "matchedKeywords": 3,
+          "totalKeywords": 7,
+          "topics": [
+            "march events",
+            "fun runs",
+            "concerts"
+          ]
+        }
+      ],
+      "keywords": {
+        "event": 1,
+        "events": 0,
+        "ticket": 0,
+        "tickets": 0,
+        "payment": 0,
+        "pay": 0,
+        "account": 0,
+        "organizer": 0,
+        "refund": 0,
+        "create": 0,
+        "buy": 0
+      }
+    }
+  ],
+  "proposedDocs": [
+    {
+      "filename": "system-organizer-tools-part1.md",
+      "topic": "organizer-tools",
+      "sections": [
+        "Veent Dashboard AI Chatbot Knowledge Base",
+        "Creating a New Event",
+        "Visibility Settings",
+        "Dashboard Analytics",
+        "Financial Summary",
+        "Dashboard Layout",
+        "Step-by-Step: Getting Started",
+        "Edit Event Submenu",
+        "Global Navigation (Top Header)",
+        "Quick Access Buttons"
+      ],
+      "estimatedChars": 4864,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-organizer-tools-part2.md",
+      "topic": "organizer-tools",
+      "sections": [
+        "Event Setup",
+        "Analytics & Export",
+        "Post-Event Checklist"
+      ],
+      "estimatedChars": 1386,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-check-in-system-part1.md",
+      "topic": "check-in-system",
+      "sections": [
+        "Table of Contents",
+        "Creating Ticket Types",
+        "Team Roles",
+        "Permission Matrix",
+        "Scanning Areas",
+        "Data Export",
+        "10. Scanner & Check-in",
+        "Scanner PWA",
+        "Offline Support",
+        "Batch Check-in",
+        "Scanner Features"
+      ],
+      "estimatedChars": 4218,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-check-in-system-part2.md",
+      "topic": "check-in-system",
+      "sections": [
+        "How to Access Common Tasks",
+        "Seat Maps",
+        "Check-in",
+        "Day-of-Event Checklist"
+      ],
+      "estimatedChars": 2904,
+      "withinTarget": true,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-event-management.md",
+      "topic": "event-management",
+      "sections": [
+        "1. Event Creation & Basic Settings",
+        "Ticket Properties (Custom Fields)",
+        "5. Seat Maps & Venue Setup",
+        "Seat Map Editor",
+        "3D Preview"
+      ],
+      "estimatedChars": 1474,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-general.md",
+      "topic": "general",
+      "sections": [
+        "Event Status Options",
+        "Customization Labels",
+        "3. Registration Forms",
+        "4. Payment Configuration",
+        "Order Timeout",
+        "Transform Tools",
+        "Sharing Seat Maps",
+        "6. Vouchers & Promotions",
+        "Voucher Examples",
+        "8. Email & Communications",
+        "Email Templates",
+        "Event Announcements",
+        "Subscription Management",
+        "11. Printed Tickets",
+        "Printed Ticket Management",
+        "Allocation",
+        "Ticket Statuses",
+        "Fee Settings",
+        "Seat Selection for Printed Tickets",
+        "Keyboard Shortcuts",
+        "13. Frequently Asked Questions",
+        "Emails",
+        "Printed Tickets"
+      ],
+      "estimatedChars": 4498,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-payment-processing.md",
+      "topic": "payment-processing",
+      "sections": [
+        "Event Settings (Advanced)",
+        "Payment Gateways",
+        "Fee Settings",
+        "Fee Calculation Examples",
+        "Free Orders",
+        "Tickets & Pricing",
+        "Payment & Fees"
+      ],
+      "estimatedChars": 3121,
+      "withinTarget": true,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-ticket-management.md",
+      "topic": "ticket-management",
+      "sections": [
+        "2. Ticket Types & Pricing",
+        "Form-Ticket Association",
+        "Creating an Event Checklist"
+      ],
+      "estimatedChars": 523,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-frontend-flow.md",
+      "topic": "frontend-flow",
+      "sections": [
+        "Package Tickets",
+        "Form Builder",
+        "Creating Vouchers",
+        "12. Navigation Guide",
+        "Mobile Navigation",
+        "Vouchers",
+        "Quick Reference Cards"
+      ],
+      "estimatedChars": 3476,
+      "withinTarget": true,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-account-management.md",
+      "topic": "account-management",
+      "sections": [
+        "7. Staff & Permissions",
+        "Inviting Staff",
+        "Staff & Access",
+        "Troubleshooting"
+      ],
+      "estimatedChars": 1199,
+      "withinTarget": false,
+      "needsSplit": false
+    },
+    {
+      "filename": "system-reporting.md",
+      "topic": "reporting",
+      "sections": [
+        "9. Analytics & Reporting",
+        "Main Navigation Tabs"
+      ],
+      "estimatedChars": 1099,
+      "withinTarget": false,
+      "needsSplit": false
+    }
+  ],
+  "chunkWarnings": [
+    "Table of Contents chunk 1: \"ticket\" appears 4x (max 3)",
+    "Creating a New Event chunk 1: \"event\" appears 12x (max 3)",
+    "Event Settings (Advanced) chunk 1: \"event\" appears 5x (max 3)",
+    "Event Settings (Advanced) chunk 1: \"ticket\" appears 5x (max 3)",
+    "Customization Labels chunk 1: \"ticket\" appears 5x (max 3)",
+    "Creating Ticket Types chunk 1: \"ticket\" appears 8x (max 3)",
+    "Creating Ticket Types chunk 2: \"ticket\" appears 4x (max 3)",
+    "Package Tickets chunk 1: \"ticket\" appears 4x (max 3)",
+    "Financial Summary chunk 1: \"ticket\" appears 4x (max 3)",
+    "Allocation chunk 1: \"ticket\" appears 4x (max 3)",
+    "Step-by-Step: Getting Started chunk 1: \"event\" appears 6x (max 3)",
+    "How to Access Common Tasks chunk 2: \"event\" appears 4x (max 3)",
+    "Event Setup chunk 1: \"event\" appears 12x (max 3)",
+    "Tickets & Pricing chunk 1: \"ticket\" appears 9x (max 3)",
+    "Seat Maps chunk 1: \"event\" appears 4x (max 3)",
+    "Printed Tickets chunk 1: \"ticket\" appears 4x (max 3)"
+  ]
+}

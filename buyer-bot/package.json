@@ -1,0 +1,30 @@
+{
+  "name": "veent-dify-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "baseline:capture": "node scripts/baseline-capture.mjs",
+    "baseline:compare": "node scripts/baseline-compare.mjs",
+    "analyze": "node scripts/analyze-document.mjs",
+    "split": "node scripts/split-document.mjs",
+    "upload": "node scripts/upload-and-test.mjs",
+    "validate": "node scripts/post-validation.mjs"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^4.0.0",
+    "@sveltejs/kit": "^2.20.0",
+    "@sveltejs/vite-plugin-svelte": "^5.0.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "lucide-svelte": "^0.577.0",
+    "svelte": "^5.0.0",
+    "tailwindcss": "^4.2.1",
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "@sveltejs/adapter-node": "^5.5.4"
+  }
+}
