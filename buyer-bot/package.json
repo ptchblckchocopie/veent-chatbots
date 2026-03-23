@@ -12,7 +12,9 @@
     "analyze": "node scripts/analyze-document.mjs",
     "split": "node scripts/split-document.mjs",
     "upload": "node scripts/upload-and-test.mjs",
-    "validate": "node scripts/post-validation.mjs"
+    "validate": "node scripts/post-validation.mjs",
+    "crawl": "node scripts/crawl-events.mjs",
+    "sync": "node scripts/sync-kb.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^4.0.0",
@@ -25,6 +27,7 @@
     "vite": "^6.0.0"
   },
   "dependencies": {
-    "@sveltejs/adapter-node": "^5.5.4"
+    "@sveltejs/adapter-node": "^5.5.4",
+    "playwright": "^1.58.2"
   }
 }

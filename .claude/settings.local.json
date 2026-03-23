@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(claude mcp:*)",
+      "mcp__playwriter__execute",
+      "Bash(npx playwriter@latest:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(python -c \"import sys,json,base64; data=json.load\\(sys.stdin\\); print\\(base64.b64decode\\(data[''''content'''']\\).decode\\(\\)\\)\")",
+      "Bash(node -e \"const d=require\\(''''fs''''\\).readFileSync\\(0,''''utf8''''\\);JSON.parse\\(d\\).forEach\\(x=>console.log\\(x.name, x.type\\)\\)\")",
+      "WebFetch(domain:docs.immich.app)",
+      "Bash(node -e \"const d=require\\(''''fs''''\\).readFileSync\\(0,''''utf8''''\\);JSON.parse\\(d\\).tree.filter\\(x=>x.path.match\\(/webhook|event.*hook|notification/i\\) && !x.path.includes\\(''''node_modules''''\\)\\).forEach\\(x=>console.log\\(x.path\\)\\)\")",
+      "Bash(node -e \"const d=require\\(''''fs''''\\).readFileSync\\(0,''''utf8''''\\);JSON.parse\\(d\\).tree.filter\\(x=>/webhook|notification/.test\\(x.path\\) && !x.path.includes\\(''''node_modules''''\\)\\).forEach\\(x=>console.log\\(x.path\\)\\)\")",
+      "Bash(gh search:*)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/immich-app/immich/main/open-api/immich-openapi-specs.json\")",
+      "Bash(curl -s -X POST https://api.groq.com/openai/v1/chat/completions:*)"
+    ]
+  }
+}
