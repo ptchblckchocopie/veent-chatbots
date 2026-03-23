@@ -14,7 +14,8 @@
     "upload": "node scripts/upload-and-test.mjs",
     "validate": "node scripts/post-validation.mjs",
     "crawl": "node scripts/crawl-events.mjs",
-    "sync": "node scripts/sync-kb.mjs"
+    "sync": "node scripts/sync-kb.mjs",
+    "scrape:contacts": "node scripts/scrape-contacts.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^4.0.0",

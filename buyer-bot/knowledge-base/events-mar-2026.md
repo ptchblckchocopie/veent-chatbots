@@ -1,5 +1,7 @@
 ## Upcoming Events on Veent Tix — March 2026
 
+Keywords: upcoming events, show me events, what events, event listings, event schedule, events this month, events near me, things to do, concerts, fun run, marathon, workshop
+
 Below is the list of upcoming events, event listings, and event schedules for March 2026 on Veent Tix.
 Event: The Shady Brunch: Heated Puksaan
 Event Link: https://theshadybrunch.veent.net
@@ -85,6 +87,7 @@ Venue: Rosario Pavilion, Limketkai
 Ticket Prices:
 - Early Bird: ₱1,500.00
 - Regular: ₱2,000.00
+  Organizer Contact: Email: yrwattsup@gmail.com — Phone: 09171462018
 
 
 Event: The Global Leadership Summit: Cagayan de Oro 2026 (Teams)
@@ -94,25 +97,44 @@ Time: 8:00 AM - 5:00 PM
 Venue: Rosario Pavilion, Limketkai
 Ticket Prices:
 - Teams: ₱2,000.00
+  Organizer Contact: Email: yrwattsup@gmail.com — Phone: 09171462018
 
 
-Event: Rotary Kalayaan Run 2026
-Event Link: https://rotarykalayaanrun.veent.net
+Event: CORAL PROPAGATION WORKSHOP
+Event Link: https://coralpropagationworkshop.veent.net
 Date: Saturday, March 28, 2026
-Time: 3:00 AM - 9:00 AM
-Venue: Cagayan de Oro
+Time: 6:00 AM - 10:00 AM
+Venue: Bauan Divers Sanctuary Resort, Brgy. San Pablo, Bauan, Batangas
+  Organizer Contact: Krick Soriano — Email: oceanquestMK@gmail.com
+
+
+Event: The Daytime Collective presents: F1 Socials
+Event Link: https://tdcf1socials.veent.net
+Date: Sunday, March 29, 2026
+Time: 12:00 PM - 5:00 PM
 Ticket Prices:
-- 3KM RUN: ₱650.00
-- 5KM RUN: ₱750.00
-- 10KM RUN: ₱1,300.00
+- General Admission: ₱400.00
+  Organizer Contact: The Daytime Collective — Email: thedaytimecollectiveph@gmail.com
 
 
 Event: RUN FOR ILOILO RIVER
 Event Link: https://runforiloiloriver.veent.net
-Date: Saturday, March 28, 2026
+Date: Sunday, March 29, 2026
 Time: 4:00 AM - 7:00 AM
 Venue: Sunset Boulevard, Iloilo City
 Ticket Prices:
 - 10KM with Singlet and Medal: ₱999.00
 - 5KM with Singlet and Medal: ₱899.00
 - 3KM with Singlet and Medal: ₱599.00
+
+
+Event: Rotary Kalayaan Run 2026
+Event Link: https://rotarykalayaanrun.veent.net
+Date: Sunday, March 29, 2026
+Time: 3:00 AM - 9:00 AM
+Venue: Cagayan de Oro
+Ticket Prices:
+- 3KM RUN: ₱650.00
+- 5KM RUN: ₱750.00
+- 10KM RUN: ₱1,300.00
+  Organizer Contact: Rotary Club of Kalayaan

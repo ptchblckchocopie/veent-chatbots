@@ -1,5 +1,7 @@
 ## Upcoming Events on Veent Tix — September & October 2025
 
+Keywords: upcoming events, show me events, what events, event listings, event schedule, events this month, events near me, things to do, concerts, fun run, marathon
+
 Below is the list of upcoming events, event listings, and event schedules for September and October 2025 on Veent Tix.
 Event: Slaysian Royale Episode 6
 Event Link: https://dinterventionep6.veent.net
